@@ -1,0 +1,28 @@
+{
+    "columns": [
+        {
+          "label": "Name",
+          "field": "name",
+          "sort": "asc",
+          "width": 120
+        },
+        {
+          "label": "Phone Number",
+          "field": "phoneNumber",
+          "sort": "asc",
+          "width": 150
+        },
+        {
+          "label": "Address",
+          "field": "address",
+          "sort": "asc",
+          "width": 150
+        },
+        {
+          "label": "Class",
+          "field": "class",
+          "sort": "asc",
+          "width": 120
+        }
+      ]
+}
