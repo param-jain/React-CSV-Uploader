@@ -75,7 +75,7 @@ class App extends Component {
   }
   
   render() {
-    const fontSize = 5;
+    const fontSize = 6;
 
     return (
       <div>
